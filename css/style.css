@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+
+
+@media (min-width: 768px) {
+    .card-md-3 .row {
+        max-width: 720px;
+    }
+}
